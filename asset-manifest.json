@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.3896c761.css",
-    "main.js": "/website/static/js/main.b19f2240.js",
+    "main.css": "/website/static/css/main.fdc20c4a.css",
+    "main.js": "/website/static/js/main.965507b2.js",
     "static/media/IMG_4064.jpg": "/website/static/media/IMG_4064.0858010ce88f2726844e.jpg",
     "static/media/profile.jpg": "/website/static/media/profile.7379811d24e437129fc2.jpg",
     "static/media/Nolan-Martinous-CV.pdf": "/website/static/media/Nolan-Martinous-CV.d9ae17bc1d162b448683.pdf",
     "index.html": "/website/index.html",
-    "main.3896c761.css.map": "/website/static/css/main.3896c761.css.map",
-    "main.b19f2240.js.map": "/website/static/js/main.b19f2240.js.map"
+    "main.fdc20c4a.css.map": "/website/static/css/main.fdc20c4a.css.map",
+    "main.965507b2.js.map": "/website/static/js/main.965507b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.3896c761.css",
-    "static/js/main.b19f2240.js"
+    "static/css/main.fdc20c4a.css",
+    "static/js/main.965507b2.js"
   ]
 }
